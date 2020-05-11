@@ -1,0 +1,3 @@
+# !/bin/bash
+
+python3 /home/madrix/Dev/notpy/create.py $1 $2 $3
